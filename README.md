@@ -32,7 +32,7 @@ Ensure the following are installed on your system:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/cwd-api.git
+    git clone https://github.com/w1ld3r/cwd-api
     cd cwd-api
     ```
 
