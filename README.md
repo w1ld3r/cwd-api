@@ -1,7 +1,5 @@
 # Crypto Wallet Dashboard API (CWD-API)
 
-# Crypto Wallet Dashboard API (CWD-API)
-
 The Crypto Wallet Dashboard API (CWD-API) is a backend solution designed to allow users to store and manage their cryptocurrency transactions securely. The backend serves as a data store for transactions and user information, while all data consolidation and enrichment are handled on the closed-source frontend dashboard available at [cwd.danjon.xyz](https://cwd.danjon.xyz).
 
 ## Features
